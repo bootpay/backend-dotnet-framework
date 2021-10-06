@@ -1,0 +1,10 @@
+/Users/bootpay/bootpayPlugins/servers/dotnet/Bootpay.framework/Bootpay.framework/bin/release/netstandard2.0/Bootpay.framework.deps.json
+/Users/bootpay/bootpayPlugins/servers/dotnet/Bootpay.framework/Bootpay.framework/bin/release/netstandard2.0/Bootpay.framework.dll
+/Users/bootpay/bootpayPlugins/servers/dotnet/Bootpay.framework/Bootpay.framework/bin/release/netstandard2.0/Bootpay.framework.pdb
+/Users/bootpay/bootpayPlugins/servers/dotnet/Bootpay.framework/Bootpay.framework/obj/release/netstandard2.0/Bootpay.framework.csproj.AssemblyReference.cache
+/Users/bootpay/bootpayPlugins/servers/dotnet/Bootpay.framework/Bootpay.framework/obj/release/netstandard2.0/Bootpay.framework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bootpay/bootpayPlugins/servers/dotnet/Bootpay.framework/Bootpay.framework/obj/release/netstandard2.0/Bootpay.framework.AssemblyInfoInputs.cache
+/Users/bootpay/bootpayPlugins/servers/dotnet/Bootpay.framework/Bootpay.framework/obj/release/netstandard2.0/Bootpay.framework.AssemblyInfo.cs
+/Users/bootpay/bootpayPlugins/servers/dotnet/Bootpay.framework/Bootpay.framework/obj/release/netstandard2.0/Bootpay.framework.csproj.CoreCompileInputs.cache
+/Users/bootpay/bootpayPlugins/servers/dotnet/Bootpay.framework/Bootpay.framework/obj/release/netstandard2.0/Bootpay.framework.dll
+/Users/bootpay/bootpayPlugins/servers/dotnet/Bootpay.framework/Bootpay.framework/obj/release/netstandard2.0/Bootpay.framework.pdb
