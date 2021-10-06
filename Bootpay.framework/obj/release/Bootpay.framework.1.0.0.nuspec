@@ -12,6 +12,6 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="/Users/bootpay/bootpayPlugins/servers/dotnet/Bootpay.framework/Bootpay.framework/bin/release/netstandard2.0/Bootpay.framework.dll" target="lib/netstandard2.0/Bootpay.framework.dll" />
+    <file src="/Users/bootpay/bootpayPlugins/servers/dotnet/Bootpay.framework/Bootpay.framework/bin/Release/netstandard2.0/Bootpay.framework.dll" target="lib/netstandard2.0/Bootpay.framework.dll" />
   </files>
 </package>

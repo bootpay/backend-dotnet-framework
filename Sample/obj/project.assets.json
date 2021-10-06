@@ -78,7 +78,7 @@
       "outputPath": "/Users/bootpay/bootpayPlugins/servers/dotnet/Bootpay.framework/Sample/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/bootpay/.config/NuGet/NuGet.Config"
+        "/Users/bootpay/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"

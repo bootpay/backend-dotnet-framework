@@ -1,6 +1,6 @@
 # Bootpay ASP.NET 패키지
 
-Bootpay.net 패키지는 ASP.NET 언어로 작성된 어플리케이션, 프레임워크 등에서 사용가능합니다.
+Bootpay.framework  패키지는 ASP.NET 언어로 작성된 어플리케이션, 프레임워크 등에서 사용가능합니다.
 .net standart 2.0 이상부터 지원합니다. 
 
 ## Installation
@@ -10,8 +10,8 @@ Nuget 이용하여 설치하기
 1. 솔루션 탐색기(Solution Explorer) 열기 
 2. 만드신 솔루션 프로젝트 우클릭 
 3. Manage Nuget Packages 클릭 
-4. 'Bootpay.net' 검색 
-5. Bootpay.net 클릭 후 설치 
+4. 'Bootpay.framework' 검색 
+5. Bootpay.framework 클릭 후 설치 
  
 # 사용하기 
 BootpayExample.java
